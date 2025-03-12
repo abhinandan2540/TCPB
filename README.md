@@ -81,8 +81,5 @@ This bootcamp follows a **structured roadmap** to ensure a smooth learning curve
 
 ---
 
-⭐ **If you found this repository helpful, don’t forget to give it a star!** 🌟  
+**If you found this repository helpful, don’t forget to give it a star!** 🌟  
 
----
-
-This README provides a **structured, engaging, and informative** introduction to your bootcamp repository. Let me know if you want any modifications! 🚀🔥
