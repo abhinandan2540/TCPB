@@ -52,8 +52,8 @@ This bootcamp follows a **structured roadmap** to ensure a smooth learning curve
 ## **How to Use This Repository?**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/The-Complete-Python-Bootcamp.git
-   cd The-Complete-Python-Bootcamp
+   git clone https://github.com/abhinandan2540/TCPB.git
+   cd TCPB
    ```
 2. Follow each chapter in order (or pick any topic of interest).  
 3. Run the Python scripts provided in each section.  
