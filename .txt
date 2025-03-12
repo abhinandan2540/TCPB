@@ -1,0 +1,11 @@
+Welcome to THE COMPLETE PYTHON BOOTCAMP
+In this bootcamp we'll dig deep into the python fundamentals and it's concepts.
+we'll also do many questions, many challenges to make our understanding at the top notch level.
+
+so let's begin the joy of python
+***i'll also attach README.md file with every chapter and topic for ease of better understanding.
+
+
+
+Happy Learning...
+i'm avvv
