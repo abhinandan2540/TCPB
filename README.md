@@ -3,7 +3,7 @@
 **Master Python from Basics to Advanced with Practical Examples**  
 
 ## **About This Repository**  
-Welcome to **The Complete Python Bootcamp**! This repository is designed for anyone who wants to learn Python from scratch and advance to professional-level skills. Each topic is covered with **clear explanations, hands-on examples, and real-world applications** to ensure deep understanding.  
+Welcome to **The Complete Python Bootcamp**! This repository is designed for anyone who wants to learn Python from scratch and advance to professional-level skills. Each topic is covered with **clear explanations, hands-on examples, and real-world applications** with self written **PDF's** to ensure deep understanding.  
 
 Whether you're a **beginner** or an **experienced developer** looking to refine your Python skills, this bootcamp will provide structured learning with **step-by-step guides and coding exercises**.  
 
