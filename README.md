@@ -18,11 +18,11 @@ This bootcamp follows a **structured roadmap** to ensure a smooth learning curve
 - Chapter 03: Python Variables & constants
 - Chapter 04 : Python data types
 - Chapter 05 : python typecasting
+- Chapter 06 : Python Strings
 
   
 
 ### **Python control flow and operators**  
-- Chapter 06 : Python Strings 
 - Chapter 07 : python operators 
 - Chapter 08 : Python if- else 
 - Chapter 09 : python for loop
@@ -43,9 +43,9 @@ This bootcamp follows a **structured roadmap** to ensure a smooth learning curve
 ### **Python advance and OOP**  
 - Chapter 17 : python Modules & Packages 
 - Chapter 18 : Python File Handling
-- Chapter 18 : python Error Handling
-- Chapter 19 : python Object Oriented Programming
-- Chapter 20 : miscellaneous 
+- Chapter 19 : python Error Handling
+- Chapter 20 : python Object Oriented Programming
+- Chapter 21 : miscellaneous 
 
 ---
 
